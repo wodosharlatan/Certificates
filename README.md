@@ -28,8 +28,8 @@ Mým hlavním zaměřením jsou dovednosti v backendovém vývoji, včetně prá
 
 **Junior Software Tester**
 - **CIS (Complete Internet Services)**
-- *1.7.2023 - 1.9.2023*
 - Adresa: Fortna 43, 506 01 Jičín 1
+- *1.7.2023 - 1.9.2023*
 
     - Psal unit testy, které zajišťují správnou funkcionalitu jednotlivých komponent a tříd v Laravel aplikaci.
     - Navrhoval a implementoval automatizované testy pro webové aplikace postavené na Laravel frameworku.
