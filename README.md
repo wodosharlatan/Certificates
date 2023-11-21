@@ -1,5 +1,4 @@
-# Tomáš Bosák
-# Junior Backend Developer
+# Tomáš Bosák - Junior Backend Developer
 
 # **Kontakt**
 - Email: tombos255@gmail.com
