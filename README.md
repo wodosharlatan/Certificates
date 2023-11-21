@@ -5,7 +5,7 @@
 - Email: tombos255@gmail.com
 - Telefon: +420 604 333 191
 - Adresa: Střešovice, Praha 6
-- GitHub: [github.com/wodosharlatan](https://github.com/wodosharlatan)
+
 
 **EDUKACE**
 - 18-20-M/01 Informační technologie
