@@ -6,9 +6,11 @@
 - Adresa: Střešovice, Praha 6
 
 
-# **EDUKACE**
+# **Edukace**
+- Vyšší odborná škola a Střední průmyslová škola
 - 18-20-M/01 Informační technologie
 - 2019 - 2024
+
 
 # **Dovednosti**
 - HTML
