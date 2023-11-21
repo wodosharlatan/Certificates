@@ -1,17 +1,17 @@
 # Tomáš Bosák
-## Junior Backend Developer
+# Junior Backend Developer
 
-**Kontakt**
+# **Kontakt**
 - Email: tombos255@gmail.com
 - Telefon: +420 604 333 191
 - Adresa: Střešovice, Praha 6
 
 
-**EDUKACE**
+# **EDUKACE**
 - 18-20-M/01 Informační technologie
 - 2019 - 2024
 
-**Dovednosti**
+# **Dovednosti**
 - HTML
 - CSS
 - SQL
@@ -25,10 +25,12 @@
 - Bash
 - Docker
 
-**Zaměření**
+# **Zaměření**
+
 Mým hlavním zaměřením jsou dovednosti v backendovém vývoji, včetně práce s SQL, NodeJS, React, a MongoDB. Mám také zkušenosti s provozním prostředím Linux, správou verzovacího systému Git, práci v příkazovém řádku Bash a využívání kontejnerizace pomocí Dockeru.
 
-**Pracovní Zkušenosti**
+# **Pracovní Zkušenosti**
+
 **Junior Software Tester**
 - **CIS (Complete Internet Services)**
 - *1.7.2023 - 1.9.2023*
