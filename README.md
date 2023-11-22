@@ -13,6 +13,7 @@ Mým hlavním zaměřením jsou dovednosti v backendovém vývoji, včetně prá
 - HTML
 - CSS
 - SQL
+- PHP
 - SCSS
 - JavaScript
 - NodeJS
